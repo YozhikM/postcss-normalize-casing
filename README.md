@@ -26,9 +26,7 @@ export default async function(css) {
 }
 ```
 
-```
-css/input.css
-```
+`css/input.css`:
 
 ```css
 a {
@@ -38,7 +36,7 @@ a {
 }
 ```
 
-`outputCSS`
+`outputCSS`:
 
 ```css
 a {
